@@ -1,0 +1,767 @@
+body{
+  color: #fff;
+  background-color: #121213;
+  padding: 0px;
+  margin: 0px;
+}
+#divmain{
+  display: flex;
+}
+#divnav{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+box-shadow: 0px 5px 0px 0px #090f1f;
+}
+.all:hover{
+  background-color: greenyellow;
+}
+.music:hover{
+  background-color: greenyellow;
+}
+.btn1{
+opacity: 0.3;
+}
+.btn2{
+opacity: 0.3;
+}
+.btn3{
+  opacity: 0.3;
+}
+.btn4{
+  opacity: 0.3;
+}
+.btn5 {
+  opacity: 0.3;
+}
+.btn6{
+  opacity: 0.3;
+}
+.btn7{
+  opacity: 0.3;
+}
+.btn8{
+  opacity: 0.3;
+}
+.btn9 {
+  opacity: 0.3;
+}
+.btn10 {
+  opacity: 0.3;
+}
+.btn11 {
+  opacity: 0.3;
+}
+.btn12{
+  opacity: 0.3;
+}
+.btn13 {
+  opacity: 0.3;
+}
+.btn14{
+  opacity: 0.3;
+}
+.btn15 {
+  opacity: 0.3;
+}
+.btn16 {
+  opacity: 0.3;
+}
+.btn17 {
+  opacity: 0.3;
+}
+.btn18 {
+  opacity: 0.3;
+}
+.btn19 {
+  opacity: 0.3;
+}
+.btn20{
+  opacity: 0.3;
+}
+.btn21 {
+  opacity: 0.3;
+}
+.btn22{
+  opacity: 0.3;
+}
+.btn23 {
+  opacity: 0.3;
+}
+.btn24 {
+  opacity: 0.3;
+}
+.btn25 {
+  opacity: 0.3;
+}
+.btn26 {
+  opacity: 0.3;
+}
+.btn27 {
+  opacity: 0.3;
+}
+.btn28 {
+  opacity: 0.3;
+}
+.btn29 {
+  opacity: 0.3;
+}
+.btn30{
+  opacity: 0.3;
+}
+.btn1:hover{
+  opacity: 0.5;
+}
+.btn:hover {
+  opacity: 0.5;
+}
+.btn3:hover {
+  opacity: 0.5;
+}
+.btn4:hover {
+  opacity: 0.5;
+}
+.btn5:hover {
+  opacity: 0.5;
+}
+.btn6:hover {
+  opacity: 0.5;
+}
+.btn7:hover {
+  opacity: 0.5;
+}
+.btn8:hover {
+  opacity: 0.5;
+}
+.btn9:hover {
+  opacity: 0.5;
+}
+.btn10:hover {
+  opacity: 0.5;
+}
+.btn11:hover {
+  opacity: 0.5;
+}
+.btn12:hover {
+  opacity: 0.5;
+}
+.btn13:hover {
+  opacity: 0.5;
+}
+.btn14:hover {
+  opacity: 0.5;
+}
+.btn15:hover {
+  opacity: 0.5;
+}
+.btn16:hover {
+  opacity: 0.5;
+}
+.btn17:hover {
+  opacity: 0.5;
+}
+.btn18:hover {
+  opacity: 0.5;
+}
+.btn19:hover {
+  opacity: 0.5;
+}
+.btn20:hover {
+  opacity: 0.5;
+}
+.btn21:hover {
+  opacity: 0.5;
+}
+.btn22:hover {
+  opacity: 0.5;
+}
+.btn23:hover {
+  opacity: 0.5;
+}
+.btn24:hover {
+  opacity: 0.5;
+}
+.btn25:hover {
+  opacity: 0.5;
+}
+.btn26:hover {
+  opacity: 0.5;
+}
+.btn27:hover {
+  opacity: 0.5;
+}
+.btn28:hover {
+  opacity: 0.5;
+}
+.btn29:hover {
+  opacity: 0.5;
+}
+.btn30:hover {
+  opacity: 0.5;
+}
+.btnp {
+  opacity: 0.3;
+}
+.btnp2 {
+  opacity: 0.3;
+}
+.btnp3{
+  opacity: 0.3;
+}
+.btnp4 {
+  opacity: 0.3;
+}
+.btnp5 {
+  opacity: 0.3;
+}
+.btnp6 {
+  opacity: 0.3;
+}
+.btnp7 {
+  opacity: 0.3;
+}
+.btnp8 {
+  opacity: 0.3;
+}
+.btnp9 {
+  opacity: 0.3;
+}
+.btnp10{
+  opacity: 0.3;
+}
+.btnp11 {
+  opacity: 0.3;
+}
+.btnp12 {
+  opacity: 0.3;
+}
+.btnp13 {
+  opacity: 0.3;
+}
+.btnp14{
+  opacity: 0.3;
+}
+.btnp15{
+  opacity: 0.3;
+}
+.btnp16 {
+  opacity: 0.3;
+}
+.btnp17 {
+  opacity: 0.3;
+}
+.btnp18{
+  opacity: 0.3;
+}
+.btnp19 {
+  opacity: 0.3;
+}
+.btnp20 {
+  opacity: 0.3;
+}
+.btnp21 {
+  opacity: 0.3;
+}
+.btnp22 {
+  opacity: 0.3;
+}
+.btnp23 {
+  opacity: 0.3;
+}
+.btnp24 {
+  opacity: 0.3;
+}
+.btnp25{
+  opacity: 0.3;
+}
+.btnp26{
+  opacity: 0.3;
+}
+.btnp28 {
+  opacity: 0.3;
+}
+.btnp29{
+  opacity: 0.3;
+}
+.btnp30{
+  opacity: 0.3;
+}
+.input{
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+  text-size: 20px;
+
+}
+.input:hover{
+  opacity: 0.5;
+}
+#but1{
+  background-color: #fff;
+  color: black;
+  border-radius: 50px;
+  border: none;
+  width: 150px;
+  height: 20px;
+  border: no;
+}
+#divsub1{
+  width: 250px;
+
+  box-shadow: 5px 0px 0px 2px #090f1f;
+}
+.divsub2>div>img{
+  width:140px;
+  height: 140px;
+  
+}
+.divsub2>div>button{
+  background-color: #121213;
+  border-radius: 150px;
+  border: none;
+  color: #fff;
+  margin: 0px 0px 20px 20px ;
+  
+}
+.div1{
+  display: flex;
+}
+.div2{
+  display: flex;
+  align-items: center;
+  
+
+}
+.div2>div>img{
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+.div2>div>h4{
+  margin-left: 20px;
+}
+.divimg1{
+  background-image:url(whatZ.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg2 {
+  background-image: url(jawan.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div3{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+.divimg3{
+  background-image: url(m.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg4 {
+  background-image: url(Dangal.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div4{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  
+}
+.div5{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg5 {
+  background-image: url(kesari.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg6 {
+  background-image: url(kick.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg7 {
+  background-image: url(masatani.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg8 {
+  background-image: url(gangubai.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div6{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg9 {
+  background-image: url(kabil.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg10 {
+  background-image: url(radheshyam.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg11 {
+  background-image: url(radha.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg12 {
+  background-image: url(padmavt.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div7{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg13 {
+  background-image: url(ganapati.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg14{
+  background-image: url(konkahate.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg15 {
+  background-image: url(saibaba.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg16 {
+  background-image: url(shiv.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div8 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg16 {
+  background-image: url(shiv.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg17 {
+  background-image: url(mauli.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg18 {
+  background-image: url(shyama.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg19 {
+  background-image: url(Devi.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg20 {
+  background-image: url(chalisa.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div9{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg21{
+  background-image: url(yarana.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg22 {
+  background-image: url(omshantiom.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg23 {
+  background-image: url(mrindia.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg24 {
+  background-image: url(mohra.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div10{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.div11{
+  display: flex;
+  margin-top: 20px;
+}
+.div11>div{
+  margin-left: 15px;
+}
+
+.divimg25 {
+  background-image: url(devdas.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg26 {
+  background-image: url(ude.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg27{
+  background-image: url(fana.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg28 {
+  background-image: url(rekha.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg29{
+  background-image: url(awara.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg30 {
+  background-image: url(teri.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div12{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg31 {
+  background-image: url(telagu.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg32 {
+  background-image: url(Hollywood.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg33 {
+  background-image: url(marathi.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg34 {
+  background-image: url(malyalam.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div13{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg35 {
+  background-image: url(shreya1.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg36 {
+  background-image: url(aasha.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg37 {
+  background-image: url(avadhoot.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg38 {
+  background-image: url(Neha.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div14{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.divimg39 {
+  background-image: url(Alka.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg40{
+  background-image: url(ajayatul.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg41{
+  background-image: url(arjit.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg42 {
+  background-image: url(Dhavni.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.divimg43 {
+  background-image: url(sonu.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  text-align: center;
+}
+.div15 {
+  display: flex;
+  margin-top: 20px;
+}
+.divimg43{
+  margin-left: 10px;
+}
